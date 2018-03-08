@@ -1,8 +1,7 @@
 ---
 layout: page
+title: my projects
 ---
-
-### my projects
 
 - Versão Android do App "**[Beat Percussion Fever](https://play.google.com/store/apps/details?id=br.com.discoazul.beatpercussion)**"
 

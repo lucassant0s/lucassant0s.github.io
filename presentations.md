@@ -1,8 +1,7 @@
 ---
 layout: page
+title: my presentations
 ---
-
-### my presentations
 
 - **[Tákbando](http://slides.com/lucasnascimento-1/takbando#/)**
 
