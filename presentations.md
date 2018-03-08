@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Apresentações
 ---
 
 ### my presentations
