@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre
-subtitle: Lucas Nascimento Santos (@lucasnst), engenheiro de software full stack
 ---
 
 ### my history
