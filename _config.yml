@@ -90,7 +90,7 @@ url-pretty: "lucassant0s/lucassant0s.github.io"  # eg. "deanattali.com/beautiful
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-53674960-1"
 
 # Google Tag Manager ID
 #gtm: ""
