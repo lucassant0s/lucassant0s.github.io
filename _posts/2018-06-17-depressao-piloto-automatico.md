@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Depressão: Piloto Automático
+title: Depressão - Piloto Automático
 subtitle: Teorema CAP, também chamado de Teorema de Brewer
 bigimg: /img/0.jpg
 ---
