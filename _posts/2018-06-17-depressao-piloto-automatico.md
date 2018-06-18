@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Depressão - Piloto Automático
-subtitle: Teorema CAP, também chamado de Teorema de Brewer
-bigimg: /img/0.jpg
+bigimg: /img/0.jpeg
 ---
 
 > Uma das maneiras inconscientes que as pessoas deprimidas encontram para lidar com seus problemas é ativar o perigoso piloto automático. Nesse sentido, pessoas que não param nunca, que vivem trabalhando demais, que não param de fazer faxina ou que estão sempre fazendo muitas coisas, sem descanso, podem estar fazendo isso para não precisar enfrentar os próprios sentimentos.
